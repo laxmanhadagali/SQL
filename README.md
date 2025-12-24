@@ -17,3 +17,12 @@ I update this repository daily with SQL queries and concepts as part of my **Dat
   - CREATE TABLE
   - INSERT INTO
 
+ ### Day 02 – SQL Practice (University Database)
+
+- Created a new database: `university`
+- Created `students` table
+- Inserted multiple student records
+- Updated existing records using `UPDATE`
+- Used `TRUNCATE` to remove all records from a table
+- Retrieved data using `SELECT` queries
+
