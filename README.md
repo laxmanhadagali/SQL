@@ -26,3 +26,12 @@ I update this repository daily with SQL queries and concepts as part of my **Dat
 - Used `TRUNCATE` to remove all records from a table
 - Retrieved data using `SELECT` queries
 
+ ### Day 03 – SQL Table Alterations & Schema Changes
+
+### Topics Covered
+- Altered existing tables using `ALTER TABLE`
+- Added new columns to a table
+- Dropped unnecessary columns
+- Modified column data types and constraints
+- Renamed table names using `RENAME`
+- Updated table structure without losing data
