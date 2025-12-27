@@ -35,3 +35,15 @@ I update this repository daily with SQL queries and concepts as part of my **Dat
 - Modified column data types and constraints
 - Renamed table names using `RENAME`
 - Updated table structure without losing data
+
+##  Day 04 – SQL Data Filtering and Sorting
+
+#### Topics Covered
+- Filtered records using `WHERE` clause
+- Sorted query results using `ORDER BY`
+- Limited output rows using `LIMIT`
+- Used conditional filtering with:
+  - `BETWEEN`
+  - `IN`
+  - `LIKE`
+- Combined multiple conditions in queries
