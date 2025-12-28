@@ -47,3 +47,15 @@ I update this repository daily with SQL queries and concepts as part of my **Dat
   - `IN`
   - `LIKE`
 - Combined multiple conditions in queries
+
+####   Day 05 – SQL Filtering, Sorting, and Record Deletion
+
+### Topics Covered
+- Filtered data using `WHERE` clause
+- Sorted records using `ORDER BY` with:
+  - `ASC` (ascending)
+  - `DESC` (descending)
+- Limited result set using `LIMIT`
+- Combined `WHERE` with `ORDER BY` and `LIMIT`
+- Deleted specific records using `DELETE` with conditions
+
