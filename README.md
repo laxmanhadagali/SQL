@@ -59,3 +59,31 @@ I update this repository daily with SQL queries and concepts as part of my **Dat
 - Combined `WHERE` with `ORDER BY` and `LIMIT`
 - Deleted specific records using `DELETE` with conditions
 
+### Day 06 – SQL Functions and Their Types
+- Learned what SQL functions are and why they are used
+- Studied different types of SQL functions
+- Practiced commonly used built-in functions
+- Applied functions in `SELECT` queries for data analysis
+
+### Types of SQL Functions Practiced
+- **Aggregate Functions**
+  - `COUNT()`
+  - `SUM()`
+  - `AVG()`
+  - `MIN()`
+  - `MAX()`
+- **String Functions**
+  - `UPPER()`
+  - `LOWER()`
+  - `LENGTH()`
+  - `CONCAT()`
+- **Numeric Functions**
+  - `ROUND()`
+  - `ABS()`
+- **Date Functions**
+  - `NOW()`
+  - `CURDATE()`
+- **Scalar Functions**
+  - Functions that return a single value per row
+
+
