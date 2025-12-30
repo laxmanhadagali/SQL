@@ -72,18 +72,19 @@ I update this repository daily with SQL queries and concepts as part of my **Dat
   - `AVG()`
   - `MIN()`
   - `MAX()`
-- **String Functions**
-  - `UPPER()`
-  - `LOWER()`
-  - `LENGTH()`
-  - `CONCAT()`
-- **Numeric Functions**
-  - `ROUND()`
-  - `ABS()`
-- **Date Functions**
-  - `NOW()`
-  - `CURDATE()`
-- **Scalar Functions**
-  - Functions that return a single value per row
+
+# 📅 Day 7 – SQL Functions Practice
+On Day 7 of my SQL learning journey, I studied and practiced various **SQL Functions** used for data manipulation, calculation, and analysis.
+
+##  Topics Covered
+- **String Functions:** CONCAT(), SUBSTRING(), TRIM(), UPPER(), LOWER(), LENGTH()
+- **Numeric (Math) Functions:** ABS(), ROUND(), CEIL(), FLOOR(), MOD(), POWER(), SQRT(), TRUNCATE()
+- **Date & Time Functions:** NOW(), CURDATE(), CURTIME(), YEAR(), MONTH(), DAY(), DATEDIFF(), TIMESTAMPDIFF(), DATE_ADD(), DATE_SUB(), DATE_FORMAT()
+- **Logical / Conditional Functions:** IF(), CASE, COALESCE(), NULLIF()
+- **Conversion Functions:** CAST(), CONVERT()
+
+## Practice Summary
+- Used functions with SELECT, WHERE, ORDER BY, GROUP BY, and HAVING clauses
+- Practiced real-world scenarios such as salary analysis, age calculation, and data clean
 
 
