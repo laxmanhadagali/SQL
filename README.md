@@ -73,7 +73,7 @@ I update this repository daily with SQL queries and concepts as part of my **Dat
   - `MIN()`
   - `MAX()`
 
-# 📅 Day 7 – SQL Functions Practice
+### Day 7 – SQL Functions Practice
 On Day 7 of my SQL learning journey, I studied and practiced various **SQL Functions** used for data manipulation, calculation, and analysis.
 
 ##  Topics Covered
@@ -86,5 +86,23 @@ On Day 7 of my SQL learning journey, I studied and practiced various **SQL Funct
 ## Practice Summary
 - Used functions with SELECT, WHERE, ORDER BY, GROUP BY, and HAVING clauses
 - Practiced real-world scenarios such as salary analysis, age calculation, and data clean
+
+
+### Day 08 – SQL Foreign Keys and Transaction Control
+
+### Topics Covered
+- Learned and implemented **Foreign Key constraints**
+- Understood parent-child table relationships
+- Practiced **Transaction Control Language (TCL)** commands
+- Used `COMMIT`, `ROLLBACK`, and `SAVEPOINT`
+- Performed safe data modifications using transactions
+
+###  SQL Concepts Practiced
+- `FOREIGN KEY` constraint
+- Referential integrity between tables
+- `COMMIT` to permanently save changes
+- `ROLLBACK` to undo changes
+- `SAVEPOINT` to partially rollback transactions
+- Managing data consistency and reliability
 
 
